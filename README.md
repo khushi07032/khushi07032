@@ -13,13 +13,16 @@ roles for 2026–2027.**
 
 ---
 
-#### What I build
+#### What I'm building
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[AuraJobs](https://github.com/khushi07032/AuraJobs)** | Job portal with auth, resume uploads, and application tracking | React · Node · SQL |
-| **[Nexa](https://github.com/khushi07032/Nexa)** | Campus management platform with admin, faculty, and student flows | React · Java · Spring Boot |
+| **AuraJobs** _(coming soon)_ | Job portal with auth, resume uploads, and application tracking | React · Node · SQL |
+| **Nexa** _(coming soon)_ | Campus management platform with admin, faculty, and student flows | React · Java · Spring Boot |
+| **[Campus Vault](https://github.com/khushi07032/CSS-AVENGERS)** | Campus resource sharing site for notes, papers, and flashcards (group project) | HTML · CSS · JavaScript |
 | **[Elegant Threads & Beads](https://khushibansal.me/elegant-threads)** | Direct-to-consumer crochet & beaded jewellery brand I founded in 2023 (Rs 15K → Rs 1.5L revenue, 500+ customers) | Product · Marketing |
+
+_AuraJobs and Nexa source will land here as I tidy up the local repos._
 
 ---
 
